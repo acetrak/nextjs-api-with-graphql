@@ -1,0 +1,8 @@
+.container {
+  padding: 0 2rem;
+  min-height: 100vh;
+  /*display: flex;*/
+  /*align-items: center;*/
+  /*justify-content: center;*/
+  /*font-size: 1.1rem;*/
+}
